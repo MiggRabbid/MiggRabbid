@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Anatoliy
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">a beginner frontend developer</h3>
-<p align="left">Right now, I'm studying at Hexlet, turning my youthful dream into reality</p>
+<p align="center">Right now, I'm studying at Hexlet, turning my youthful dream into reality</p>
 
 ---
 <h5 align="left">My current languages and tools:</h5>
