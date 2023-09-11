@@ -10,10 +10,10 @@
 <h4 align="left">By the end of the course, I will know:</h4>
 <div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="40" alt="React"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="Type Script"/></div>
 
-<h5 align="left">I have a basic understanding of:</h5>
+<h4 align="left">I have a basic understanding of:</h4>
 <div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="40" alt="Python"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="40" alt="Java"/></div>
 
-<h5 align="left" margin="">I also plan to learn:</h5>
+<h4 align="left" margin="">I also plan to learn:</h4>
 <div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="40" alt="Node.JS"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="GoLang"/></div>
 
 ---
