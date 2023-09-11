@@ -4,6 +4,7 @@
 <p align="center">Right now, I'm studying at Hexlet, turning my youthful dream into reality</p>
 
 ---
+
 <h4 align="left">My current languages and tools:</h4>
 <div>
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="40" alt="HTML5"/></a>
