@@ -36,4 +36,4 @@
 </div>
 
 ---
-[![CodeWars](https://www.codewars.com/users/Migg%20Rabbid/badges/small)](https://www.codewars.com/users/Migg%20Rabbid) [![LeetCode user RabbidMigg](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2FRabbidMigg&logo=leetcode&logoColor=yellow)](https://leetcode.com/RabbidMigg/)
+![Hexlet Badge](https://img.shields.io/badge/Hexlet-116EF5?logo=hexlet&logoColor=fff&style=flat-square) [![CodeWars](https://www.codewars.com/users/Migg%20Rabbid/badges/small)](https://www.codewars.com/users/Migg%20Rabbid) [![LeetCode user RabbidMigg](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2FRabbidMigg&logo=leetcode&logoColor=yellow)](https://leetcode.com/RabbidMigg/)
