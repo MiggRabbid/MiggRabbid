@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Anatoliy
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">a beginner frontend developer</h3>
-<p align="left">Right now, I'm studying at <span> <a href="https://ru.hexlet.io/u/miggrabbid" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Hexlet-116EF5?logo=hexlet&logoColor=fff&style=flat-square" height="19" alt="Hexlet.io"/></a></span>, turning my youthful dream into reality.</p>
+<p align="left" vertical-align="center">Right now, I'm studying at <span> <a vertical-align="center" href="https://ru.hexlet.io/u/miggrabbid" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Hexlet-116EF5?logo=hexlet&logoColor=fff&style=flat-square" height="19" alt="Hexlet.io"/></a></span>, turning my youthful dream into reality.</p>
 <p align="left">I take delight in dealing with the visual aspects, enhancing user experience, and diving into graphic design. Additionally, I'm keen on solving complex challenges.</p>
 
 ---
