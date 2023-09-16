@@ -1,7 +1,8 @@
 <h1 align="center">Hi there, I'm Anatoliy
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">a beginner frontend developer</h3>
-<p align="center">Right now, I'm studying at [![Hexlet Badge](https://img.shields.io/badge/Hexlet-116EF5?logo=hexlet&logoColor=fff&style=flat-square)](https://ru.hexlet.io/u/miggrabbid), turning my youthful dream into reality</p>
+<p align="left">Right now, I'm studying at <span> <a href="https://ru.hexlet.io/u/miggrabbid" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Hexlet-116EF5?logo=hexlet&logoColor=fff&style=flat-square" height="19" alt="Hexlet.io"/></a></span>, turning my youthful dream into reality.</p>
+<p align="left">I take delight in dealing with the visual aspects, enhancing user experience, and diving into graphic design. Additionally, I'm keen on solving complex challenges.</p>
 
 ---
 
@@ -36,5 +37,4 @@
 </div>
 
 ---
-<h4 align="left">I like to decide complex tasks:</h4>4
 [![CodeWars](https://www.codewars.com/users/Migg%20Rabbid/badges/small)](https://www.codewars.com/users/Migg%20Rabbid) [![LeetCode user RabbidMigg](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2FRabbidMigg&logo=leetcode&logoColor=yellow)](https://leetcode.com/RabbidMigg/)
