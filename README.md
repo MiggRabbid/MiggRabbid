@@ -1,8 +1,11 @@
 <h1 align="center">Hi there, I'm Anatoliy
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">a beginner frontend developer</h3>
-<p align="left">Right now, I'm studying at <span> <a vertical-align="middle" href="https://ru.hexlet.io/u/miggrabbid" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Hexlet-116EF5?logo=hexlet&logoColor=fff&style=flat-square" height="19" alt="Hexlet.io"/></a></span>, turning my youthful dream into reality.</p>
-<p align="left">I take delight in dealing with the visual aspects, enhancing user experience, and diving into graphic design. Additionally, I'm keen on solving complex challenges.</p>
+<p align="left">Right now, I'm studying at <span> <a vertical-align="middle" href="https://ru.hexlet.io/u/miggrabbid" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Hexlet-116EF5?logo=hexlet&logoColor=fff&style=flat-square" height="19" alt="Hexlet.io"/></a></span>.</p>
+<p align="left">I come from a small town in the Urals. Since 2010, I've been involved in a small private business with friends. I was managing my business smoothly and didn't really think about software development. However, I indirectly dealt with it and also had to work with graphics and UI/UX.</p>
+<p align="left">Then in 2020, the pandemic hit, and I suddenly had a lot of free time on my hands with nothing to do. That's when YouTube served me a few Python tutorials, and my world turned upside down. In 2022, after much analysis, contemplation, and decision-making, I chose to dedicate my life to development, specifically Frontend.</p>
+<p align="left">I love working with graphic design, UX/UI. I have the skill and the desire to analyze and solve complex problems. I love learning and acquiring new knowledge. I'm very diligent and hardworking, perhaps a bit too responsible, and I have a healthy dose of perfectionism.</p>
+<p align="left">After completing my education at Hexlet, I plan to master Node.js and GoLang.</p>
 
 ---
 
