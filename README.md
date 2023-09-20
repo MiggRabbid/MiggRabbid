@@ -6,6 +6,7 @@
 <p align="left">Then in 2020, the pandemic hit, and I suddenly had a lot of free time on my hands with nothing to do. That's when YouTube served me a few Python tutorials, and my world turned upside down. In 2022, after much analysis, contemplation, and decision-making, I chose to dedicate my life to development, specifically Frontend.</p>
 <p align="left">I love working with graphic design, UX/UI. I have the skill and the desire to analyze and solve complex problems. I love learning and acquiring new knowledge. I'm very diligent and hardworking, perhaps a bit too responsible, and I have a healthy dose of perfectionism.</p>
 <p align="left">After completing my education at Hexlet, I plan to master Node.js and GoLang.</p>
+<p align="left">I want to work in a good company on complex and interesting projects.</p>
 
 ---
 
