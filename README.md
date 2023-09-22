@@ -2,11 +2,11 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">a beginner frontend developer</h3>
 <p align="left">Right now, I'm studying at <span> <a vertical-align="middle" href="https://ru.hexlet.io/u/miggrabbid" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Hexlet-116EF5?logo=hexlet&logoColor=fff&style=flat-square" height="19" alt="Hexlet.io"/></a></span>.</p>
-<p align="left">I come from a small town in the Urals. Since 2010, I've been involved in a small private business with friends. I handled organizing workflow in stores, store design, managing advertising, social media, graphic design, and UX/UI.</p>
-<p align="left">However, in 2020, due to the pandemic and lockdown, I found myself with a lot of free time. It was during this time that I stumbled upon a few YouTube videos about Python, and it changed my life. In 2022, after careful analysis, contemplation, and decision-making, I chose to dedicate my life to development, particularly Frontend.</p>
-<p align="left">I enjoy working with graphic design and UX/UI. I possess analytical skills and the ability to solve complex problems. I'm always eager to learn and acquire new knowledge. Persistence and diligence allow me to focus on tasks and solve them, even if it requires significant effort (all tasks on Hexlet are completed 100% without hints). Some might call me a perfectionist and overly responsible, but I believe it helps me achieve high results. I'm also adept at working in and managing teams.</p>
-<p align="left">After completing my education at Hexlet, I plan to delve into Angular, Node.js, and GoLang.</p>
-<p align="left">I aspire to work in a reputable company on challenging and exciting projects. I hope that my experience and dedication to growth will help me succeed in the world of Frontend development.</p>
+<p align="left">I come from a small town in the Urals. Over the last 15 years, I've been running a small private business with my friends.</p>
+<p align="left">In 2020, because of the pandemic and lockdown, I had a lot of free time. And so, I accidentally came across a few educational videos on YouTube about Python, and that changed my life. In 2022, after much thought, analysis, and deliberation, I made the decision to commit my life to development, particularly in the frontend field.</p>
+<p align="left">I enjoy working with graphic design and UX/UI. I love tackling challenging tasks and am always ready to learn and grow.</p>
+<p align="left">After finishing my education at Hexlet, I intend to learn Angular, Node.js, and GoLang.</p>
+<p align="left">I want to work in a great company on complex and interesting projects. I hope that my experience and my drive to learn will help me succeed in the field of frontend development.</p>
 
 <h4 align="left">My current languages and tools:</h4>
 <div>
