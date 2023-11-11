@@ -4,7 +4,6 @@
 <p align="left">Right now, I'm studying at <span> <a vertical-align="middle" href="https://ru.hexlet.io/u/miggrabbid" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Hexlet-116EF5?logo=hexlet&logoColor=fff&style=flat-square" height="19" alt="Hexlet.io"/></a></span>.</p>
 <p align="left">In 2020, because of the pandemic and lockdown, I had a lot of free time. And so, I accidentally came across a few educational videos on YouTube about Python, and that changed my life.</p>
 <p align="left">I enjoy working with graphic design and UX/UI. I love tackling challenging tasks and am always ready to learn and grow.</p>
-<p align="left">After finishing my education at Hexlet, I intend to learn Angular, Node.js, and GoLang.</p>
 
 <h4 align="left">My current languages and tools:</h4>
 <div>
