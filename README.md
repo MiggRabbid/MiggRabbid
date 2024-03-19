@@ -1,9 +1,10 @@
-<h1 align="center">Hi there, I'm Anatoliy
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<p align="left">I am a beginner Frontend developer. Currently, I am completing my education at the programming school <span> <a vertical-align="middle" href="https://ru.hexlet.io/u/miggrabbid" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Hexlet-116EF5?logo=hexlet&logoColor=fff&style=flat-square" height="19" alt="Hexlet.io"/></a></span>.</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=10000&color=000000&repeat=false&random=false&width=435&lines=Hi+there%2C+I'm+Anatoliy!)](https://git.io/typing-svg)
+<br />
+<p align="left">I`m a beginner Frontend developer. Currently, I`m completing my education at the programming school <span> <a vertical-align="middle" href="https://ru.hexlet.io/u/miggrabbid" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Hexlet-116EF5?logo=hexlet&logoColor=fff&style=flat-square" height="19" alt="Hexlet.io"/></a></span>.</p>
 <p align="left">My journey in programming began in 2021. Thanks to YouTube recommendations, I completed a short introductory course on the fundamentals of "Python," and it changed my life.</p>
 <p align="left">I enjoy working with graphic design and UX/UI, as well as solving complex problems. I am always ready to learn and enhance my skills.</p>
 
+---
 <h4 align="left">My current languages and tools:</h4>
 <div>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/></a>
