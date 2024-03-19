@@ -6,77 +6,28 @@
 
 <h4 align="left">My current languages and tools:</h4>
 <div>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" onmouseover="this.querySelector('p').style.display = 'block';" onmouseout="this.querySelector('p').style.display = 'none';" style="position: relative; display: inline-block;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
-  <p style="position: absolute; bottom: -30px; left: 50%; transform: translate(-50%, 0); display: none; font-size: 10px; color: black">JavaScript</p>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" onmouseover="this.querySelector('p').style.display = 'block';" onmouseout="this.querySelector('p').style.display = 'none';" style="position: relative; display: inline-block;">
-  	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript"/>
-  <p style="position: absolute; bottom: -30px; left: 50%; transform: translate(-50%, 0); display: none; font-size: 10px; color: black">TypeScript</p>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer" onmouseover="this.querySelector('p').style.display = 'block';" onmouseout="this.querySelector('p').style.display = 'none';" style="position: relative; display: inline-block;">
-  	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="40" alt="React"/>
-  <p style="position: absolute; bottom: -30px; left: 50%; transform: translate(-50%, 0); display: none; font-size: 10px; color: black">React</p>
-  </a>
-  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer" onmouseover="this.querySelector('p').style.display = 'block';" onmouseout="this.querySelector('p').style.display = 'none';" style="position: relative; display: inline-block;">
-  	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" height="40"alt="Bootstrap" />
-  <p style="position: absolute; bottom: -30px; left: 50%; transform: translate(-50%, 0); display: none; font-size: 10px; color: black">Bootstrap</p>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer" onmouseover="this.querySelector('p').style.display = 'block';" onmouseout="this.querySelector('p').style.display = 'none';" style="position: relative; display: inline-block;">
-  	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="Tailwind" />
-  <p style="position: absolute; bottom: -30px; left: 50%; transform: translate(-50%, 0); display: none; font-size: 10px; color: black">Tailwind</p>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer" onmouseover="this.querySelector('p').style.display = 'block';" onmouseout="this.querySelector('p').style.display = 'none';" style="position: relative; display: inline-block;">
-  	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="40" alt="HTML5"/>
-  <p style="position: absolute; bottom: -30px; left: 50%; transform: translate(-50%, 0); display: none; font-size: 10px; color: black">HTML5</p>
-  </a>
-  <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer" onmouseover="this.querySelector('p').style.display = 'block';" onmouseout="this.querySelector('p').style.display = 'none';" style="position: relative; display: inline-block;">
-  	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="40" alt="CSS"/>
-  <p style="position: absolute; bottom: -30px; left: 50%; transform: translate(-50%, 0); display: none; font-size: 10px; color: black">CSS</p>
-  </a>
-  <a href="https://sass-lang.com/" target="_blank" rel="noreferrer" onmouseover="this.querySelector('p').style.display = 'block';" onmouseout="this.querySelector('p').style.display = 'none';" style="position: relative; display: inline-block;">
-  	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" height="40" alt="Sass"/>
-  <p style="position: absolute; bottom: -30px; left: 50%; transform: translate(-50%, 0); display: none; font-size: 10px; color: black">SASS</p>
-  </a>
-  <a href="https://redux.js.org/" target="_blank" rel="noreferrer" onmouseover="this.querySelector('p').style.display = 'block';" onmouseout="this.querySelector('p').style.display = 'none';" style="position: relative; display: inline-block;">
-  	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="Redux"/>
-  <p style="position: absolute; bottom: -30px; left: 50%; transform: translate(-50%, 0); display: none; font-size: 10px; color: black">Redux</p>
-  </a>
-  <a href="https://webpack.js.org/" target="_blank" rel="noreferrer" onmouseover="this.querySelector('p').style.display = 'block';" onmouseout="this.querySelector('p').style.display = 'none';" style="position: relative; display: inline-block;">
-  	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="40" alt="Webpack"/>
-  <p style="position: absolute; bottom: -30px; left: 50%; transform: translate(-50%, 0); display: none; font-size: 10px; color: black">Webpack</p>
-  </a>
-  <a href="https://jestjs.io" target="_blank" rel="noreferrer" onmouseover="this.querySelector('p').style.display = 'block';" onmouseout="this.querySelector('p').style.display = 'none';" style="position: relative; display: inline-block;">
-  	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="Jest"/>
-  <p style="position: absolute; bottom: -30px; left: 50%; transform: translate(-50%, 0); display: none; font-size: 10px; color: black">Jest</p>
-  </a>
-  <a href="https://git-scm.com" target="_blank" rel="noreferrer" onmouseover="this.querySelector('p').style.display = 'block';" onmouseout="this.querySelector('p').style.display = 'none';" style="position: relative; display: inline-block;">
-  	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="GIT"/>
-  <p style="position: absolute; bottom: -30px; left: 50%; transform: translate(-50%, 0); display: none; font-size: 10px; color: black">Git</p>
-  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/></a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript"/></a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="40" alt="React"/></a>
+  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" height="40"alt="Bootstrap" /></a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="Tailwind" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="40" alt="HTML5"/></a>
+  <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="40" alt="CSS"/></a>
+  <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" height="40" alt="Sass"/></a>
+  <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="Redux"/></a>
+  <a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="40" alt="Webpack"/></a>
+  <a href="https://jestjs.io" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="Jest"/></a>
+  <a href="https://git-scm.com" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="GIT"/></a>
 </div>
-
 <h4 align="left">I have a basic understanding of:</h4>
 <div>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer" onmouseover="this.querySelector('p').style.display = 'block';" onmouseout="this.querySelector('p').style.display = 'none';" style="position: relative; display: inline-block;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="40" alt="Python"/>
-    <p style="position: absolute; bottom: -30px; left: 50%; transform: translate(-50%, 0); display: none; font-size: 10px; color: black">Python</p>
-  </a>
-  <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer" onmouseover="this.querySelector('p').style.display = 'block';" onmouseout="this.querySelector('p').style.display = 'none';" style="position: relative; display: inline-block;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="40" alt="Java"/>
-    <p style="position: absolute; bottom: -30px; left: 50%; transform: translate(-50%, 0); display: none; font-size: 10px; color: black">Java</p>
-  </a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="40" alt="Python"/></a>
+  <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="40" alt="Java"/></a>
 </div>
 <h4 align="left" margin="">I also plan to learn:</h4>
 <div>
-  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer" onmouseover="this.querySelector('p').style.display = 'block';" onmouseout="this.querySelector('p').style.display = 'none';" style="position: relative; display: inline-block;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="40" alt="Node.JS"/>
-    <p style="position: absolute; bottom: -30px; left: 50%; transform: translate(-50%, 0); display: none; font-size: 10px; color: black">Node.js</p>
-  </a>
-  <a href="https://go.dev/doc/" target="_blank" rel="noreferrer" onmouseover="this.querySelector('p').style.display = 'block';" onmouseout="this.querySelector('p').style.display = 'none';" style="position: relative; display: inline-block;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="GoLang"/>
-    <p style="position: absolute; bottom: -30px; left: 50%; transform: translate(-50%, 0); display: none; font-size: 10px; color: black">Go</p>
-  </a>
+  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="40" alt="Node.JS"/></a>
+  <a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="GoLang"/></a>
 </div>
 
 ---
