@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=10000&color=000000&repeat=false&random=false&width=435&lines=Hi+there%2C+I'm+Anatoliy!)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=10000&color=000000&random=false&width=435&lines=Hi+there%2C+I'm+Anatoliy!)
 <br />
 <p align="left">I`m a beginner Frontend developer. Currently, I`m completing my education at the programming school <span> <a vertical-align="middle" href="https://ru.hexlet.io/u/miggrabbid" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Hexlet-116EF5?logo=hexlet&logoColor=fff&style=flat-square" height="19" alt="Hexlet.io"/></a></span>.</p>
 <p align="left">My journey in programming began in 2021. Thanks to YouTube recommendations, I completed a short introductory course on the fundamentals of "Python," and it changed my life.</p>
