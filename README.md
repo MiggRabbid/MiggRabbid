@@ -1,6 +1,7 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=10000&color=000000&random=false&width=435&lines=Hi+there%2C+I'm+Anatoliy!)
-<p align="left">I`m a beginner Frontend developer. Currently, I`m completing my education at the programming school <span> <a vertical-align="middle" href="https://ru.hexlet.io/u/miggrabbid" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Hexlet-116EF5?logo=hexlet&logoColor=fff&style=flat-square" height="19" alt="Hexlet.io"/></a></span>.</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=5000&color=000000&center=%D0%9B%D0%9E%D0%96%D0%AC&vCenter=%D0%B8%D1%81%D1%82%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9&repeat=%D0%B8%D1%81%D1%82%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9&random=%D0%9B%D0%9E%D0%96%D0%AC&width=350&height=30&lines=Hi+there!+My+name+is+Anatoliy.)](https://git.io/typing-svg)
+<p align="left">I`m a beginner Frontend develope.</p>
 <p align="left">My journey in programming began in 2021. Thanks to YouTube recommendations, I completed a short introductory course on the fundamentals of "Python," and it changed my life.</p>
+<p align="left">In March of this year I finished my studies at the <span> <a vertical-align="middle" href="https://ru.hexlet.io/u/miggrabbid" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Hexlet-116EF5?logo=hexlet&logoColor=fff&style=flat-square" height="19" alt="Hexlet.io"/></a></span> programming school, but I continue to develop as a developer.</p>
 <p align="left">I enjoy working with graphic design and UX/UI, as well as solving complex problems. I am always ready to learn and enhance my skills.</p>
 
 ---
