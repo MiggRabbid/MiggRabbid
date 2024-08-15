@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Sans&pause=5000&color=000000&background=0BFF0000&vCenter=true&random=false&height=30&lines=Hi+there!+My+name+is+Anatoliy)](https://git.io/typing-svg)
 <p align="left">I`m a beginner Frontend develope.</p>
-<p align="left">Если кратко о себе, то я человек, который в 35 лет решил кардинально и полностью изменить свою жизнь и посвятить её программированию. Т. к. это именно та сфера деятельности, которая позволяет мне решать сложные задачи, постоянно развиваться и получать от этого удовольствие</p>
+<p align="left">Briefly about myself, I am a person who at the age of 35 decided to radically and completely change my life and dedicate it to programming. Because this is exactly the area of ​​activity that allows me to solve complex problems, constantly develop and enjoy it.</p>
 <p align="left">In March of this year I finished my studies at the <span> <a vertical-align="middle" href="https://ru.hexlet.io/u/miggrabbid" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Hexlet-116EF5?logo=hexlet&logoColor=fff&style=flat-square" height="19" alt="Hexlet.io"/></a></span> programming school, but I continue to develop as a developer.</p>
 <p align="left">I enjoy working with graphic design and UX/UI, as well as solving complex problems. I am always ready to learn and enhance my skills.</p>
 
