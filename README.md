@@ -22,12 +22,12 @@
 </div>
 <h4 align="left">I have a basic understanding of:</h4>
 <div>
+  <a title="Node.JS" href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="40" alt="Node.JS"/></a>
   <a title="Основы Python" href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="40" alt="Python"/></a>
   <a title="Основы Java" href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="40" alt="Java"/></a>
 </div>
 <h4 align="left" margin="">I also plan to learn:</h4>
 <div>
-  <a title="Node.JS" href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="40" alt="Node.JS"/></a>
   <a title="GoLang" href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="GoLang"/></a>
 </div>
 
