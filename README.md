@@ -1,8 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Sans&pause=5000&color=000000&background=0BFF0000&vCenter=true&random=false&height=30&lines=Hi+there!+My+name+is+Anatoliy)](https://git.io/typing-svg)
 <p align="left">I`m a Frontend develope.</p>
-<p align="left">My story is an example of how determination and motivation can change a life. At the age of 35, I made a conscious decision to leave my own business, which I had been running for over 10 years, to devote myself to programming.</p>
-<p align="left"> I have been intensively studying frontend for almost two years now. In March 2024, I successfully completed my studies at the <span> <a vertical-align="middle" href="https://ru.hexlet.io/u/miggrabbid" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Hexlet-116EF5?logo=hexlet&logoColor=fff&style=flat-square" height="19" alt="Hexlet.io"/></a></span> programming school.</p>
-<p align="left">I like to solve complex problems, work with graphics and UI/UX.</p>
+<p align="left"> I have over a year of commercial experience and have been learning frontend for more than two years.</p>
+<p align="left"> In March 2024, I successfully completed my studies at the <span> <a vertical-align="middle" href="https://ru.hexlet.io/u/miggrabbid" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Hexlet-116EF5?logo=hexlet&logoColor=fff&style=flat-square" height="19" alt="Hexlet.io"/></a></span> programming school.</p>
+<p align="left">For me, it's not just about learning technologies but also understanding what problems they solve and how to make a product more useful for end users. I enjoy working on complex projects that provide opportunities to learn new things, collaborate with professionals, and bring bold ideas to life.</p>
 
 ---
 <h4 align="left">The stack of technologies I have experience with:</h4>
