@@ -29,4 +29,11 @@
 </div>
 
 ---
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MiggRabbid&theme=default)
+<br>
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MiggRabbid&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MiggRabbid&theme=default)
+
+---
 [![CodeWars](https://www.codewars.com/users/Migg%20Rabbid/badges/small)](https://www.codewars.com/users/Migg%20Rabbid) [![LeetCode user RabbidMigg](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FRabbidMigg&logo=leetcode&logoColor=yellow)](https://leetcode.com/RabbidMigg/)
