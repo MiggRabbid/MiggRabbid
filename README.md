@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Sans&pause=5000&color=000000&background=0BFF0000&vCenter=true&random=false&height=30&lines=Hi+there!+My+name+is+Anatoliy)](https://git.io/typing-svg)
-<p align="left">I`m a Frontend develope.</p>
+<p align="left">I`m a Frontend developer</p>
 
 ---
 <h4 align="left">The stack of technologies I have experience with:</h4>
