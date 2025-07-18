@@ -1,8 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Sans&pause=5000&color=000000&background=0BFF0000&vCenter=true&random=false&height=30&lines=Hi+there!+My+name+is+Anatoliy)](https://git.io/typing-svg)
 <p align="left">I`m a Frontend develope.</p>
-<p align="left">Briefly about myself, at the age of 35 I made a conscious decision to leave my own small business, which I had been successfully running for over 10 years, to devote myself entirely to programming. Because it became not just a hobby, but a whole way of life.</p>
-<p align="left"> In February 2024, I successfully completed my studies at the <span> <a vertical-align="middle" href="https://ru.hexlet.io/u/miggrabbid" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Hexlet-116EF5?logo=hexlet&logoColor=fff&style=flat-square" height="19" alt="Hexlet.io"/></a></span> programming school.</p>
-<p align="left">For me, it is important not only to master technologies, but also to understand what problems they solve and how to make the product more useful for end users. I like working on complex projects where there is an opportunity to learn new things, interact with professionals, implement bold ideas and find ways to make interfaces “interesting”, convenient, and effective.</p>
 
 ---
 <h4 align="left">The stack of technologies I have experience with:</h4>
