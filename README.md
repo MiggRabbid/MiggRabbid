@@ -2,7 +2,7 @@
 <p align="left">I`m a Frontend developer</p>
 
 ---
-<h4 align="left">The stack of technologies I have experience with:</h4>
+<h4 align="left">The technology stack I have commercial experience with:</h4>
 <div >
   <a title="JavaScript" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="text-decoration: none !important;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
@@ -50,7 +50,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="GIT"/> 
   </a>
 </div>
-<h4 align="left">I have basic knowledge and some experience working with:</h4>
+<h4 align="left">I have some experience with:</h4>
 <div>
   <a title="Bootstrap" href="https://getbootstrap.com/" target="_blank" rel="noreferrer" style="text-decoration: none !important;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" height="40"alt="Bootstrap" /> 
@@ -91,4 +91,5 @@
 <br>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MiggRabbid&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MiggRabbid&theme=default)
+
 
